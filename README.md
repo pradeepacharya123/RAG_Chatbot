@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Powered RAG Chatbot using Django and Groq
 
 A Retrieval-Augmented Generation (RAG) chatbot built with **Django REST Framework**.  
@@ -41,3 +42,7 @@ GROQ_API_KEY=your_api_key_here
 
 # Run the Django server
 python manage.py runserver
+=======
+# RAG_Chatbot
+AI-Powered RAG Chatbot for Contextual Question Answering
+>>>>>>> c962d9364a1248ca5de2598d64d1ecb6979c40f0
