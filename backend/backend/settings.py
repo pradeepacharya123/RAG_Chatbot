@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
      'rest_framework',         # add this
     'corsheaders',            # add this
-    'chatapi',   
+    'backend.chatapi',   
 ]
 
 MIDDLEWARE = [
